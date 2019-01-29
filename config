@@ -1,0 +1,12 @@
+[params]
+gravity=compensated
+
+[stars]
+m=1.0e-5
+a_max=3
+
+[bhs]
+N=10
+m=1.0e-4
+p=5
+a_max=3
